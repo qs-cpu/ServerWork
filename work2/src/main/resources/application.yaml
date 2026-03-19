@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: work2
+
+server:
+  port: 8082
+  servlet:
+    context-path: /
